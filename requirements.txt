@@ -1,0 +1,10 @@
+streamlit
+pandas
+spacy
+nltk
+gensim
+textblob
+scikit-learn
+matplotlib
+plotly
+seaborn
