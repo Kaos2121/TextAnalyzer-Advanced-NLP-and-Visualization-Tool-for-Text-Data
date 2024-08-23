@@ -1,6 +1,3 @@
-
-Here's a more concise version of the README:
-
 ---
 
 # TextAnalyzer: Advanced NLP and Visualization Tool
