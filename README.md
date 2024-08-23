@@ -1,0 +1,2 @@
+# TextAnalyzer-Advanced-NLP-and-Visualization-Tool-for-Text-Data
+TextAnalyzer is an advanced tool that analyzes and visualizes text data using NLP techniques. It offers sentiment analysis, topic modeling, keyword extraction, and named entity recognition, all within an interactive Streamlit dashboard. Ideal for researchers and data scientists seeking to derive insights from textual content with ease.
